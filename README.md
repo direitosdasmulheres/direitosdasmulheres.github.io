@@ -39,5 +39,3 @@ A luta pelos direitos das mulheres não é só delas, é de todos.
 O nosso grupo decidiu escolher este tema para criarmos uma ligação entre a evolução dos Direitos das Mulheres e o aumento das oportunidades ao mostrarmos o aumento da entrada das mesmas no ensino superior em Portugal. Poderão visualizar a relação entres estes dados, através da nossa página.
 
 ![relatorio-img/portugal-oppresses-women.png](relatorio-img/portugal-oppresses-women.png)
-
-
