@@ -40,4 +40,4 @@ O nosso grupo decidiu escolher este tema para criarmos uma ligação entre a evo
 
 ![relatorio-img/portugal-oppresses-women.png](relatorio-img/portugal-oppresses-women.png)
 
-
+.
